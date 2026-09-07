@@ -6,10 +6,11 @@ export function AboutSection() {
 
         <p className="mt-6 leading-8 text-slate-300">
           I am a Computer Engineer and Full Stack Developer with experience in
-          React, TypeScript, .NET, and SQL-based enterprise applications. I
-          focus on writing clean, maintainable, and scalable code while
-          continuously improving my skills in backend development, system design
-          and modern frontend architecture.
+          React, TypeScript, .NET, Java, and SQL-based enterprise
+          applications. I focus on writing clean, maintainable, and scalable
+          code across both .NET/React and Java/Spring Boot stacks, while
+          continuously improving my skills in backend development, system
+          design, and modern frontend architecture.
         </p>
       </div>
     </section>
